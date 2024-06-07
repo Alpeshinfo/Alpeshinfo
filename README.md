@@ -14,3 +14,10 @@ What I am doing on Web:
 - 📫 How to reach me: Alpeshinfo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Some cheatsheet files ####
+
+### 1) [Linux Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/01%20Linux.md)
+### 2) [Git Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/02%20Git_commands.md)
+### 2) [Docker Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/03%20docker.md)
+
