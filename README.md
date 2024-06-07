@@ -15,9 +15,35 @@ What I am doing on Web:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Some cheatsheet files ####
+<!---
 
-### 1) [Linux Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/01%20Linux.md)
-### 2) [Git Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/02%20Git_commands.md)
-### 2) [Docker Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/03%20docker.md)
+<sub>
+Main Profile<br>
+├── Devops<br>
+│   ├── [Linux](https://github.com/Alpeshinfo/DevDocs/blob/main/Linux.md) <br>
+│   ├── Linux<br>
+│   │   └── README.md<br>
+│   │   │   └── commands<br>
+│   ├── Git<br>
+│   │   └── README.md<br>
+│   │   │   └── commands
+│   ├── Docker
+│   │     └── README.md
+│   │          └── commands
+│   ├── button.stories.js
+│   └── index.js.map
+├── package.json
+├── Wordpress
+│   ├── Themes
+│   ├── Plugins
+│   └── Codes
+├── PHP
+├── Shopify
+└── CV
+</sub>
+--->
+### Some cheatsheet files ####
+ 1) [Linux Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/01%20Linux.md)
+ 2) [Git Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/02%20Git_commands.md)
+ 3) [Docker Commands](https://github.com/Alpeshinfo/DevDocs/blob/main/03%20docker.md)
 
